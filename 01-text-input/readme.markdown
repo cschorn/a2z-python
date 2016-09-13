@@ -17,5 +17,13 @@ from the command supplied when the script is called.
 
 Will print
 
-    Hello Christian!
+    Hello, Christian!
+
+When invoked by itself like:
+
+    python3 simple-hello.py
+
+It will use the default value of "Stranger":
+
+    Hello, Stranger!
 
